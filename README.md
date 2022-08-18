@@ -1,5 +1,5 @@
 # UM EU Registrations
-Display UM field only for EU user registrations
+Display an UM field only for EU user registrations
 
 ## Installation ##
 Install the file source.php into your child-theme's functions.php file or use the "Code Snippets" plugin.
