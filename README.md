@@ -2,7 +2,7 @@
 Display UM field only for EU user registrations
 
 ## Installation ##
-Install into child-theme's functions.php file or use the "Code Snippets" plugin.
+Install the file source.php into your child-theme's functions.php file or use the "Code Snippets" plugin.
 
 UM Forms Builder setup for the extra EU field:
 1. Field type: text box
