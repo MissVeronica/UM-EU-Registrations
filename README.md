@@ -28,18 +28,19 @@ EU Countries:
 11. Germany
 12. Greece
 13. Hungary
-14. Italy
-15. Latvia
-16. Lithuania
-17. Luxembourg
-18. Malta
-19. Netherlands
-20. Poland
-21. Portugal
-22. Romania
-23. Slovakia
-24. Slovenia
-25. Spain
-26. Sweden
+14. Ireland
+15. Italy
+16. Latvia
+17. Lithuania
+18. Luxembourg
+19. Malta
+20. Netherlands
+21. Poland
+22. Portugal
+23. Romania
+24. Slovakia
+25. Slovenia
+26. Spain
+27. Sweden
 
 
