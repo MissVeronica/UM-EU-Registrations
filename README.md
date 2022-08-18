@@ -9,5 +9,6 @@ UM Forms Builder setup for the extra EU field:
 2. meta_key name: eu-extra
 3. Validation: Custom Validation
 4. Custom Action: eu-extra-field
+5. Required: Yes
 
 
