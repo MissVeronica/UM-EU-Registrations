@@ -6,9 +6,9 @@ Install the file source.php into your child-theme's functions.php file or use th
 
 UM Forms Builder setup for the extra EU field:
 1. Field type: text box
-2. meta_key name: eu-extra
+2. meta_key name: eu_extra
 3. Validation: Custom Validation
-4. Custom Action: eu-extra-field
+4. Custom Action: eu_extra_field
 5. Required: Yes
 
 ## EU Countries ##
