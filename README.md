@@ -1,5 +1,5 @@
 # UM EU Registrations
-Display an UM field only for EU user registrations
+Display an UM field only for user registrations from a European Union country
 
 ## Installation ##
 Install the file source.php into your child-theme's functions.php file or use the "Code Snippets" plugin.
@@ -14,7 +14,7 @@ UM Forms Builder setup for the extra EU field:
 ## EU Countries ##
 Note that "Åland Islands" in the UM Country list is not a country but a region in Finland.
 
-EU Countries: 
+European Union Countries: 
 1. Austria
 2. Belgium
 3. Bulgaria
